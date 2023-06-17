@@ -26,7 +26,7 @@ function listNFTs () {
 }
 
 function getTotalSupply() {
-   console.log("\nTotal # of NTs: " + NFTs.length);
+   console.log("\nTotal # of NFTs: " + NFTs.length);
 
 }
 
